@@ -1,4 +1,4 @@
-# DifferentialEvolutionAlgorithm_FromScratch
+# AlgorithmsDevelopment_FromScratch
 
 ## Aim:
 To simulate biochemical reactions in human body for the prediction of drug effect.
