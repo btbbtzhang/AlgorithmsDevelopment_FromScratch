@@ -1,4 +1,4 @@
-# AlgorithmsDevelopment_FromScratch
+# DifferentialEvolution_AlgorithmsDevelopment_FromScratch
 
 ## Aim:
 To simulate biochemical reactions in human body for the prediction of drug effect.
@@ -8,7 +8,7 @@ All codes are created from scratch including Differential Evolution algorithm (c
 
 Taking ODEs as the example to simulate biochemical reaction:  
 ![Screen Shot 2023-05-09 at 9 23 39 PM](https://github.com/btbbtzhang/DifferentialEvolutionAlgorithm_FromScratch/assets/34163897/b7778cd4-0c3d-43ed-a8f7-4a216bd6f659)
-The demonstration of customized DE algorithm:  
+The demonstration of developing DE algorithm from scratch:  
 ![Screen Shot 2023-05-09 at 9 24 40 PM](https://github.com/btbbtzhang/DifferentialEvolutionAlgorithm_FromScratch/assets/34163897/628b4363-e71f-4037-b7d5-bde0b04269b2)
 
 ## Descriptions about different folders:
